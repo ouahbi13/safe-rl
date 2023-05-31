@@ -1,2 +1,2 @@
 # safe-rl
-A reinforcemont learning pckage for Safe and Survival RL
+A reinforcemont learning package for Safe and Survival RL
